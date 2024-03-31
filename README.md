@@ -28,7 +28,7 @@ Hi, I'm Jimmy Oliva!
 🔭 Working on my side projects
 🌱 Learning about MERN stack and flutter
 🌟 Main languages: TypeScript and dart
-🤔 I’m currently open for: a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1G3beBFiuq52NL5b4oIEWrH4uhBQ3BEUa/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1G3beBFiuq52NL5b4oIEWrH4uhBQ3BEUa/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -41,7 +41,7 @@ Hi, I'm Jimmy Oliva!
 
 ## 🛠 My Favorite Tools
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
     <a href="https://github.com/jimmyov29"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -68,22 +68,20 @@ Hi, I'm Jimmy Oliva!
 
 <p>
     <a href="https://github.com/jimmyov29"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/jimmyov29"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/jimmyov29"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/jimmyov29"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/jimmyov29"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 </br>
 
 <!--
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="https://github.com/jimmyov29"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/jimmyov29"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://github.com/jimmyov29"><img alt="MSI Modern 15 A10M-261" src="https://img.shields.io/badge/MSI-Modern_15_A10M-999999?style=for-the-badge"></a>
 </p>
 -->
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></a> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ jimmyov29's Stats</b></summary>
@@ -96,17 +94,7 @@ Hi, I'm Jimmy Oliva!
 	<br/>
 </p>
 <br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/jimmyov29">
-		<img src="https://activity-graph.herokuapp.com/graph?username=jimmyov29&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="jimmyov29">
-	</a>
-</p>
-<br/>
--->
-<summary><b>⚡ Top Languages</b></summary>
+<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Top Languages</b></summary>
 <br/>
 
 <p align="center">
