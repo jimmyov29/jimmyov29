@@ -32,7 +32,7 @@ Hi, I'm Jimmy Oliva!
 </pre>
 <hr>
 
-## 🤝 Connect with me
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Connect with me
 <p align="center">
 	<a href="mailto:jimmy.ov2998@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jimmyov29/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -115,9 +115,6 @@ Hi, I'm Jimmy Oliva!
 	</a>
 	<br/>
 <br/>
-<p align="center">
-  <img src="https://github.com/jimmyov29/jimmyov29/blob/main/github-user-contribution.svg" alt="snake">
-</p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
@@ -130,7 +127,6 @@ Hi, I'm Jimmy Oliva!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:jimmy.ov2998@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/jimmyov29/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
