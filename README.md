@@ -45,15 +45,15 @@ Hi, I'm Jimmy Oliva!
 
 <p>
     <a href="https://github.com/jimmyov29"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/jimmyov29"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-blue"></a>
+    <a href="https://github.com/jimmyov29"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white"></a>
     <a href="https://github.com/jimmyov29"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
     <a href="https://github.com/jimmyov29"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/jimmyov29"><img alt="React" src="https://img.shields.io/badge/React-blue"></a>
-    <a href="https://github.com/jimmyov29"><img alt="Next.js" src="https://img.shields.io/badge/next.js-black"></a>
+    <a href="https://github.com/jimmyov29"><img alt="React" src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white"></a>
+    <a href="https://github.com/jimmyov29"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js"></a>
     <a href="https://github.com/jimmyov29"><img alt="Zustand" src="https://img.shields.io/badge/Zustand-purple"></a>
 </p>
 
