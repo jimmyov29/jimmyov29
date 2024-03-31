@@ -61,7 +61,8 @@ Hi, I'm Jimmy Oliva!
 
 <p>
     <a href="https://github.com/jimmyov29"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
-    <a href="https://github.com/jimmyov29"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-darkgreen"></a>
+    <a href="https://github.com/jimmyov29"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white
+"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -71,7 +72,7 @@ Hi, I'm Jimmy Oliva!
     <a href="https://github.com/jimmyov29"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://github.com/jimmyov29"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/jimmyov29"><img alt="Fork" src="https://img.shields.io/badge/Fork-blue"></a>
-    <a href="https://github.com/jimmyov29"><img alt="Figma" src="https://img.shields.io/badge/Figma-purple"></a>
+    <a href="https://github.com/jimmyov29"><img alt="Figma" src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=white"></a>
 </p>
 </br>
 
