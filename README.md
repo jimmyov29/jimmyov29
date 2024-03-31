@@ -61,8 +61,7 @@ Hi, I'm Jimmy Oliva!
 
 <p>
     <a href="https://github.com/jimmyov29"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
-    <a href="https://github.com/jimmyov29"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white
-"></a>
+    <a href="https://github.com/jimmyov29"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
