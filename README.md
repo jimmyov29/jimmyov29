@@ -81,7 +81,7 @@ Hi, I'm Jimmy Oliva!
 -->
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="70"></a> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ jimmyov29's Stats</b></summary>
@@ -107,7 +107,7 @@ Hi, I'm Jimmy Oliva!
 </p>
 <br/>
 
-<table style="border: none">
+<!-- <table style="border: none">
   <tr>
   <td width="50%" valign="top">
 
@@ -128,10 +128,10 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   </tr>
-</table>
+</table>] -->
 
 ------
 
-[jimmyov29](https://github.com/jimmyov29)
+
 
 Last Edited on: 21/03/2024
