@@ -23,11 +23,11 @@ Hi, I'm Jimmy Oliva!
 
 <pre>
 💻 I am a self taught Full Stack Developer.
-📚 I have a Bachelors in Computer Science from the UNAH-VS at Honduras
+📚 I have a Bachelors in Computer Science from UNAH-VS in Honduras
 📝 I have a strong interest in Web development
 🔭 Working on my side projects
 🌱 Learning about MERN stack and flutter
-🌟 Main languages: TypeScript and dart
+🌟 Main language: TypeScript
 🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1G3beBFiuq52NL5b4oIEWrH4uhBQ3BEUa/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
