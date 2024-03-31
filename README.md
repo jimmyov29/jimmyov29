@@ -32,7 +32,7 @@ Hi, I'm Jimmy Oliva!
 </pre>
 <hr>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Connect with me
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70"> Connect with me
 <p align="center">
 	<a href="mailto:jimmy.ov2998@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jimmyov29/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -81,7 +81,7 @@ Hi, I'm Jimmy Oliva!
 -->
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></a> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="70"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ jimmyov29's Stats</b></summary>
