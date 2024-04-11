@@ -28,7 +28,7 @@ Hi, I'm Jimmy Oliva!
 🔭 Working on my side projects
 🌱 Learning about MERN stack and flutter
 🌟 Main language: TypeScript
-🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1G3beBFiuq52NL5b4oIEWrH4uhBQ3BEUa/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1BS4pIo3KCOFlVoFllasi24eLwTdx3VsT/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
